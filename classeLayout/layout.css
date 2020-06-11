@@ -1,0 +1,15 @@
+td, th {
+  text-align: center;
+}
+
+th{
+  background-color: rgb(196, 189, 189);
+}
+td{
+  font-weight:bold;
+}
+
+tbody{
+  text-align: center;
+}
+body{margin: 20px 40px 80px 15px;}
