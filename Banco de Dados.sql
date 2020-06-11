@@ -6,7 +6,7 @@ CREATE DATABASE if not exists AGENDA;
  USE AGENDA;
  
  CREATE TABLE IF NOT EXISTS contato (
-    id_contato INT NOT NULL PRIMARY,
+    id_contato INT NOT NULL PRIMARY key,
     nome VARCHAR(25),
     endereco varchar(25)
 );
